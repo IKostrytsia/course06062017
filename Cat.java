@@ -1,6 +1,7 @@
 public class Cat {
     int weight;
     String name;
+    String adres;
 
     public Cat(Integer weight, String name) {
         this.weight = weight;
