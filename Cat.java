@@ -1,5 +1,5 @@
 public class Cat {
-    Integer weight;
+    int weight;
     String name;
 
     public Cat(Integer weight, String name) {
